@@ -64,7 +64,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "js/" + ({"home":"home"}[chunkId]||chunkId) + ".js"
+/******/ 		return __webpack_require__.p + "forpage/js/" + ({"home":"home"}[chunkId]||chunkId) + ".js"
 /******/ 	}
 /******/
 /******/ 	// The require function
